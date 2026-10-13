@@ -17,7 +17,7 @@ function App() {
         <AuthProvider>
             <Router>
                 <Routes>
-                    {/* Public routes */}
+                    {/* Public routes Added by Naveena N H */}
                     <Route path="/login" element={<Login />} />
                     <Route path="/register" element={<Register />} />
 
